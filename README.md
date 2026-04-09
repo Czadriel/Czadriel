@@ -19,7 +19,7 @@
 ## 🚀 Sobre mim
 
 💡 Desenvolvedor focado em Back-End com forte base em Java e Programação Orientada a Objetos.  
-🎯 Experiência no desenvolvimento de APIs RESTful com arquitetura em camadas.  
+🎯 Aprendendo a desenvolver APIs REST com arquitetura em camadas.  
 📚 Atualmente estudando microsserviços e boas práticas de desenvolvimento.  
 🔥 Em busca de oportunidade de estágio na área de desenvolvimento.
 
