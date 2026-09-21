@@ -192,20 +192,6 @@ Com foco na comunicação entre aplicação Java e banco de dados.
 
 ---
 
-## 🧩 JITTO
-
-Projeto de aplicação web utilizando:
-
-```text
-HTML
-CSS
-JavaScript
-Node.js
-Express
-MongoDB
-REST API
-```
-
 Projeto desenvolvido com foco em organização de Front-End, Back-End, autenticação e persistência de dados.
 
 ---
